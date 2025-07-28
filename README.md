@@ -35,4 +35,4 @@ Advanced crypto trading app with AI auto-trading, CoinDCX-like GUI dashboard (da
 
 ## Copyright 
 
-   Copyright@Cyberdudebivash
+   Copyright@Cyberdudebivash 2025
